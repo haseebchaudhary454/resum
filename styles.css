@@ -14,12 +14,7 @@ body {
   line-height: 22px;
   color: #555555;
 }
-.vertical {
-  border-left: 3px solid #b97934;
-  height: 1380px;
-  position:absolute;
-  left: 40%;
-}
+
 
 .owner{
   color: aliceblue;
